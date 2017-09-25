@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Coffee Ordering App</string>
+    <string name="toppings" translatable="false">Toppings</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="basePrice" translatable="false">Base Price</string>
+    <string name="order" translatable="false">Order</string>
+    <string name="thankYou" translatable="false">Thank You</string>
+    <string name="visitAgain" translatable="false">Visit Again</string>
+</resources>

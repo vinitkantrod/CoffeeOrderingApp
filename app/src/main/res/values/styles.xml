@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#dd3de2</item>
+        <!--<item name="colorPrimary">#dd3de2</item>-->
+        <!--Top app bar which contain batrery and time. changing that color-->
+        <item name="colorPrimaryDark">#d00ed6</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#e23d61</item>
+    </style>
+
+    <!--button Style-->
+    <style name="quantityButtons">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <!--Headers TextView Style-->
+    <style name="headersStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+    <!--View Style-->
+    <style name="views">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:background">@android:color/darker_gray</item>
+    </style>
+
+</resources>
